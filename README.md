@@ -21,9 +21,9 @@ https://skillicons.dev/icons?i=html,css,js,react,vite,cs,dotnet,postgres,figma,g
 - Soluções para pequenos negócios
 
 </td>
-<td width="45%" align="center">
+<td width="45%" align="center" valign="middle">
 
-[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
 
 </td>
   </tr>
@@ -51,19 +51,28 @@ Redesign completo de um site de restaurante, priorizando identidade visual, resp
 
 ## 🛠️ Tecnologias e ferramentas
 
-[https://skillicons.dev/icons?i=html,css,js,react,vite,cs,dotnet,postgres,figma,git,github,vscode](https://skillicons.dev/icons?i=html,css,js,react,vite,cs,dotnet,postgres,figma,git,github,vscode)
+<p>
+  https://skillicons.dev/icons?i=html,css,js,react,vite,cs,dotnet,postgres,figma,git,github,vscode
+</p>
 
 ## 📊 Estatísticas
 
-https://github-readme-stats.vercel.app/api?username=pedrosoaresbc4-7060&show_icons=true&theme=github_dark&hide_border=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosoaresbc4-7060&layout=compact&theme=github_dark&hide_border=true
+<p>
+  https://github-readme-stats.vercel.app/api?username=pedroSoares7i&show_icons=true&theme=github_dark&hide_border=true
+  https://github-readme-stats.vercel.app/api/top-langs/?username=pedroSoares7i&layout=compact&theme=github_dark&hide_border=true
+</p>
 
 ## 🌐 Vamos nos conectar
 
-https://img.shields.io/badge/LinkedIn-Pedro_Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white]([COLE_AQUI_O_LINK_DO_LINKEDIN](https://www.linkedin.com/in/pedro-soares-a887a7323/))
+<p>
+  https://www.linkedin.com/in/pedro-soares-a887a7323/
+    https://img.shields.io/badge/LinkedIn-Pedro_Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+  </a>
 
-https://img.shields.io/badge/Portfólio-Ver_projetos-111111?style=for-the-badge&logo=vercel&logoColor=white]([COLE_AQUI_O_LINK_DO_PORTFOLIO](https://portfolio-gamma-azure-6ajutcujjy.vercel.app/))
+  https://portfolio-gamma-azure-6ajutcujjy.vercel.app/
+    https://img.shields.io/badge/Portfólio-Ver_projetos-111111?style=for-the-badge&logo=vercel&logoColor=white
+  </a>
+</p>
 
 ---
 
