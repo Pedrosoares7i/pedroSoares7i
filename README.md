@@ -23,7 +23,7 @@ https://skillicons.dev/icons?i=html,css,js,react,vite,cs,dotnet,postgres,figma,g
 </td>
 <td width="45%" align="center">
 
-https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 </td>
   </tr>
@@ -51,7 +51,7 @@ Redesign completo de um site de restaurante, priorizando identidade visual, resp
 
 ## 🛠️ Tecnologias e ferramentas
 
-https://skillicons.dev/icons?i=html,css,js,react,vite,cs,dotnet,postgres,figma,git,github,vscode
+[https://skillicons.dev/icons?i=html,css,js,react,vite,cs,dotnet,postgres,figma,git,github,vscode](https://skillicons.dev/icons?i=html,css,js,react,vite,cs,dotnet,postgres,figma,git,github,vscode)
 
 ## 📊 Estatísticas
 
